@@ -1,1 +1,1 @@
-# python-mean
+### A basic mean calculator in Python
